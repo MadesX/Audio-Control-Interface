@@ -9,8 +9,7 @@ Make sure to save all folders in the same location as file "Project_AudioControl
 This project is licensed under a custom license:
 You may use, copy, and modify the code for personal or non-profit purposes for free.
         
-If you wish to use the code in any commercial or for-profit product, you must contact the author and may be required to 
-pay a fee or share profits.
+If you wish to use the code in any commercial or for-profit product, you must contact the author and may be required to pay a fee or share profits.
         
 © 2024 Matan Sides. 
 All rights reserved.
